@@ -1,5 +1,4 @@
-[
-    {
+{
     "FileName": "filenameResponse",
     "webPanel": "webpannelResponse",
     "contactSupport": "contactSuppportResponse",
@@ -1116,4 +1115,3 @@
     "TimerLayout12": false,
     "TimerLayout13": false
 }
-]
