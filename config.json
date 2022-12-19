@@ -17,7 +17,7 @@
             "torrent": "true",
             "autoLogIn": "true",
             "username": "7ven78090",
-            "password": "7ven78090"
+            "password": "7ven78090",
             "isLocked": true
         },
         {
@@ -42,7 +42,7 @@
         {
             "flag": "icon",
             "name": "WorryFree",
-            "info": "Telkomsel opok"
+            "info": "Telkomsel opok",
             "payload": "5TQCbdounUAWDooD2wm8lv+YwLIEM4oK7gnf2QN\/cBCbi6GzMDFO6EfvbOwXeGdd7O2yUDjGsYNP8gByTxVuvitVDQnnAiO1nvnTjpwxvWnZA+FC25RyesviMle1OlPTSchCNVV\/O+sdvPauFZMfHaHg1lDlUs6EPLbMD\/7xwQxuvkg0kno1aWU25GmgEzodAhgiZDAvX2rGYcikgi6blsk90z8yKpc+G5RDeYSdGOdarF7hNzOMtqRyO5\/DkqxFledsF+DXfmmxM59aeatNmLh0cfhsh3Xfi7fwM\/8ljH5p1OmjbPbNBCD+\/NVAxiZssZDiXdmdd1w6swTv4f+zZuzTLRgN45PWGvTTXKOwM1TA9fKDZ0CkwEZ6mA3HNr6X9ds3w8n8gjDEgeG0q3Lb2\/PPjqftTb3Xu6nklXgyywE6MfJ+",
             "bugSni": "",
             "slowDnsPublicKey": "",
