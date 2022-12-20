@@ -47,6 +47,19 @@
             "connectionMode": 1,
             "proxyHost": "",
             "proxyPort": ""
+        },
+         {
+            "flag": "icon",
+            "name": "WorryFree 2",
+            "info": "Telkomsel opok",
+            "payload": "GET \/worryfree HTTP\/1.1[crlf]host: tsel.me[crlf]Connection: keep-alive[crlf]Upgrade: websocket[crlf][crlf]",
+            "bugSni": "",
+            "slowDnsPublicKey": "",
+            "slowDnsServerName": "",
+            "slowDnsAddress": "",
+            "connectionMode": 1,
+            "proxyHost": "",
+            "proxyPort": ""
         }
     ],
     "TimerLayout0": true,
