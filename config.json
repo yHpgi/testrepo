@@ -1,79 +1,43 @@
-{
-    "Version": "1.1",
-    "Message": "Message : Test Update 1.0",
-    "adsCoin": "0",
-    "Servers": [
-        {
-            "serverType": "SSH",
-            "name": "Singapore",
-            "flag": "sg",
-            "sshHost": "sg1.ce7ven.com",
-            "nameServer": "",
-            "sshPort": "22",
-            "sslPort": "443",
-            "dropBear": "550",
-            "udpPort": "",
-            "proxyPort": "80",
-            "username": "7ven78090",
-            "password": "7ven78090",
-            "isLocked": true
-        },
-        {
-            "serverType": "SSH",
-            "name": "Germany",
-            "flag": "sg",
-            "sshHost": "ger.ce7ven.com",
-            "nameServer": "",
-            "sshPort": "22",
-            "sslPort": "443",
-            "dropBear": "550",
-            "udpPort": "",
-            "proxyPort": "80",
-            "username": "7ven78090",
-            "password": "7ven78090",
-            "isLocked": true
-        }
-    ],
-    "Tweaks": [
-        {
-            "flag": "icon",
-            "name": "WorryFree",
-            "info": "Telkomsel opok",
-            "payload": "GET \/worryfree HTTP\/1.1[crlf]host: tsel.me[crlf]Connection: keep-alive[crlf]Upgrade: websocket[crlf][crlf]",
-            "bugSni": "",
-            "slowDnsPublicKey": "",
-            "slowDnsServerName": "",
-            "slowDnsAddress": "",
-            "connectionMode": 1,
-            "proxyHost": "",
-            "proxyPort": ""
-        },
-         {
-            "flag": "icon",
-            "name": "WorryFree 2",
-            "info": "Telkomsel opok",
-            "payload": "GET \/worryfree HTTP\/1.1[crlf]host: tsel.me[crlf]Connection: keep-alive[crlf]Upgrade: websocket[crlf][crlf]",
-            "bugSni": "",
-            "slowDnsPublicKey": "",
-            "slowDnsServerName": "",
-            "slowDnsAddress": "",
-            "connectionMode": 1,
-            "proxyHost": "",
-            "proxyPort": ""
-        }
-    ],
-    "TimerLayout0": true,
-    "TimerLayout1": true,
-    "TimerLayout2": false,
-    "TimerLayout3": false,
-    "TimerLayout4": false,
-    "TimerLayout5": false,
-    "TimerLayout6": false,
-    "TimerLayout7": false,
-    "TimerLayout8": false,
-    "TimerLayout9": false,
-    "TimerLayout10": false,
-    "TimerLayout11": false,
-    "TimerLayout12": false,
-    "TimerLayout13": false
-}
+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
